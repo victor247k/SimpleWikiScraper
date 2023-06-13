@@ -34,6 +34,3 @@ print("The file is saved on your desktop.")
 print("Have a nice day")
 
 os.chdir(curentWorkingDirectory)
-
-#####################################  LOCATION  #########################################
-# C:\Users\ASUS\AppData\Local\Programs\Python\Python310\Programs\webScraping\wikiSearch.py
