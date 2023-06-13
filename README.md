@@ -1,6 +1,8 @@
 - About
 
-Using mechanical soup, and my newly obtained knowledge I have built this program to help me make presentations at school, no more annoying colored text and whatever this is\[1\]\[2\]\[3\]\[4\].
+Sadly it only works in english for now
+
+Using mechanical soup, and my newly obtained knowledge I have built this program to help me make presentations for school, by making easier to copy text from wikipedia, no more annoying colored text and whatever this is\[1\]\[2\]\[3\]\[4\].
 
 - What I have learnt:
 
