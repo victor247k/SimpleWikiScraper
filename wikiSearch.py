@@ -11,7 +11,8 @@ main_page_html = main_page.soup
 form = main_page_html.select("#search-form")[0]
 
 print("What do you want to search for: ")
-form.select("#searchInput")[0]["value"] = input()
+name = input()
+form.select("#searchInput")[0]["value"] = name
 
 search_page = browser.submit(form, url)
 
@@ -22,8 +23,7 @@ home = Path.home()
 
 os.chdir(home / 'Desktop/')
 
-print("What do you want ot call this file?")
-file_name = input()
+file_name = name
 file_name = re.sub(r'\..*?', "", file_name)
 with open(file_name + '.txt', 'w+', encoding="utf-8") as wiki_file:
     for paragraph in paragraphs:

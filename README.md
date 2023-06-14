@@ -14,3 +14,7 @@ how to change the directory, and also get it.
 
 [https://realpython.com/python-web-scraping-practical-introduction/] (Real Python)
 [https://automatetheboringstuff.com/2e/chapter12/] (Automate The Boring Stuff with Python)
+
+- Links
+
+Yt Video [https://youtu.be/U-riGqAZMuU] 
